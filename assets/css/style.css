@@ -41,6 +41,7 @@ h4 {
 
 a {
   color: #292929;
+  
   text-decoration: none !important;
   transition: all 0.5s ease-in-out 0s;
 }
@@ -50,7 +51,8 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #b8a07e;
+  /* color: #b8a07e; */
+  color: #3f83c2;
   text-decoration: underline;
 }
 
@@ -59,7 +61,8 @@ nav ul li a {
   position: relative;
   display: block;
   font-size: 12px;
-  color: #999999;
+  /* color: #999999; */
+  color: #3f83c2;
   letter-spacing: 0.1em;
   font-weight: 500;
   line-height: 14px;
@@ -194,7 +197,8 @@ nav ul li a {
   position: relative;
   display: block;
   font-size: 14px;
-  color: #999999;
+/*   color: #999999; */
+  color: #000f1b;
   font-family: 'Poppins', helvetica;
   font-weight: 500;
   line-height: 16px;
@@ -332,7 +336,8 @@ nav ul li a {
 #about {
   width: 100%;
   height: auto;
-  background: #f7f7f7;
+ /*  background: #f7f7f7; */
+ background: #e4f9ff;
   padding-top: 120px;
 }
 
@@ -367,7 +372,8 @@ nav ul li a {
 # Services
 --------------------------------------------------------------*/
 #services {
-  background: #f7f7f7;
+  /* background: #f7f7f7; */
+  background: #e4f9ff;
   position: relative;
   padding-bottom: 80px;
 }
@@ -395,7 +401,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #24437c; /* #b8a07e; */
   line-height: 44px;
 }
 
@@ -416,12 +422,12 @@ nav ul li a {
   border-radius: 50%;
   border: 0;
   padding: 0 !important;
-  background-color: #ddd;
+  background-color: #add8fc/* #ddd */;
   cursor: pointer;
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #b8a07e;
+  background-color: #121368;/* #b8a07e */;
 }
 
 .owl-nav {
@@ -453,13 +459,16 @@ nav ul li a {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #999999;
+ /*  color: #999999; */
+  color: #24437c;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+ /*  color: #b8a07e; */
+ color: #24437c;
+ border: solid 1px #24437c;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -889,7 +898,8 @@ blockquote {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f7f7;
+ /*  background: #f7f7f7; */
+  background: #e4f9ff;
   padding-top: 50px;
   padding-bottom: 50px;
 }
