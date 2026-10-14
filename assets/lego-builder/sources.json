@@ -1,0 +1,8 @@
+{
+  "store": "https://apps.apple.com/us/app/lego-builder-3d-instructions/id1486159728",
+  "images": {
+    "screenshot-01.jpg": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/ba/ba/d0baba41-23e2-eb44-0712-fe11c2774e48/01-Static_iOSTablet_en-US_LB-CreativeRefresh_2064x2732.jpg/900x1200bb.jpg",
+    "screenshot-02.jpg": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/d3/e2/45d3e208-0317-d013-8a54-90576d2cf0a8/02-Static_iOSTablet_en-US_LB-CreativeRefresh_2064x2732.jpg/900x1200bb.jpg",
+    "screenshot-03.jpg": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/34/4a/67344a7c-a7e7-ce36-01d0-348216cc808c/03-Static_iOSTablet_en-US_LB-CreativeRefresh_2064x2732.jpg/900x1200bb.jpg"
+  }
+}

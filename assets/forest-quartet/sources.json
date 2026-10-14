@@ -1,0 +1,17 @@
+{
+  "source_page": "https://store.steampowered.com/app/1620720/The_Forest_Quartet/",
+  "credits": "Mads & Friends / Bedtime Digital Games",
+  "images": {
+    "screenshot-01.jpg": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1620720/ss_c836ba36cb78d9e2b8c32e7fa65f96b7ced3b2c8.1920x1080.jpg?t=1729500913",
+    "screenshot-03.jpg": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1620720/ss_2f752091e3b3220918fa99dca657954d4953ac33.1920x1080.jpg?t=1729500913",
+    "screenshot-05.jpg": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1620720/ss_7a31df819b489e2fa8fd7cc189dc8bab1addba63.1920x1080.jpg?t=1729500913",
+    "screenshot-08.jpg": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1620720/ss_34fb31907d7de934880a5b7485e9cabf099f862a.1920x1080.jpg?t=1729500913",
+    "golems.png": "User-provided screenshot: image(20261014-165240).png"
+  },
+  "video": {
+    "file": "launch-trailer.mp4",
+    "title": "The Forest Quartet - Launch Trailer",
+    "source": "https://video.akamai.steamstatic.com/store_trailers/1620720/519435/459e14f1b7ff66dca8b61e9f8e9b5f9f768b0447/1751010721/hls_264_master.m3u8?t=1683192398",
+    "processing": "720p H.264/AAC MP4, compressed for browser upload below 25 MB; complete trailer with audio."
+  }
+}
